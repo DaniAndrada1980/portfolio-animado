@@ -89,7 +89,7 @@ export const Home = () => {
         buttonLink="/projects/smart-sparrow"
         model={{
           type: 'laptop',
-          alt: 'Smart Sparrow lesson builder',
+          alt: 'Smart Sparrow',
           textures: [
             {
               srcSet: [sprTexture, sprTextureLarge],
